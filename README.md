@@ -1,6 +1,6 @@
 # CRUD_Java_SpringBoot
 
->  *Criaçã de uma projeto Spring com ua impplementação de um CRUD completo*
+>  *Criação de uma projeto Spring com  implementação de um CRUD completo*
 
 ## Realização
 

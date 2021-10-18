@@ -2,9 +2,9 @@
 
 >  *Criação de uma projeto Spring com  implementação de um CRUD completo*
 
-## Realização
+## Competências
 
-# Competências
+
 
 
 - Criar projeto Spring Boot ✔
